@@ -6,7 +6,7 @@ Front-End Developer
 
 * 🖥️  See my portfolio at [https://zulfafakaha.vercel.app/](http://zulfafakaha.vercel.app/)
 * ✉️  You can contact me at [zulfakaha@gmail.com](mailto:zulfakaha@gmail.com)
-* 🧠  I'm learning TailwindCSS, ReactJS, and NextJS
+* 🧠  I'm learning TailwindCSS, and ReactJS
 
 ### Skills
 
