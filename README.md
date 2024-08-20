@@ -5,6 +5,8 @@ Front-End Developer
 -------------------
 
 * 🖥️  See my portfolio at [https://zulfafakaha.vercel.app/](http://zulfafakaha.vercel.app/)
+* 📫  Currently I am an Informatics Student at [Amikom University Yogyakarta](https://home.amikom.ac.id/)
+* 🌱  I’m Graduated Front-End Javascript Student at [Binar Academy](https://www.binaracademy.com/)
 * ✉️  You can contact me at [zulfakaha@gmail.com](mailto:zulfakaha@gmail.com)
 * 🧠  I'm learning TailwindCSS, and ReactJS
 
