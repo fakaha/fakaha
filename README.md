@@ -1,7 +1,7 @@
 Hi 👋 My name is Zulfa Fakaha
 =============================
 
-Front-End Developer
+Front-End Developer | Back-End Developer
 -------------------
 
 * 🖥️  See my portfolio at [https://zulfafakaha.vercel.app/](http://zulfafakaha.vercel.app/)
